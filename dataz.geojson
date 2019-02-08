@@ -1,0 +1,365 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3516972,19.5457621 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZPR",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title1",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3044248,19.493979 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZES",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title2",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.238948,19.4686116 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SN2",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title3",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2445412,19.4666842 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"CNA",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title4",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2519831,19.4553762 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZRH",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title5",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2491945,19.4525541 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SN3",
+    "Estado":"México",
+    "Municipio":"Naucalpan",
+    "Title":"Title6",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1940238,19.5404804 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZTL",
+    "Estado":"México",
+    "Municipio":"Tlalnepantla",
+    "Title":"Title7",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3284169,19.6214412 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZNR",
+    "Estado":"México",
+    "Municipio":"Nicolás Romero",
+    "Title":"Title8",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3286988,19.6248475 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZN2",
+    "Estado":"México",
+    "Municipio":"Nicolás Romero",
+    "Title":"Title9",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1353936,19.4326018 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"STL",
+    "Estado":"México",
+    "Municipio":"Tlalnepantla",
+    "Title":"Title10",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1815459,19.5550151 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZTN",
+    "Estado":"México",
+    "Municipio":"Tlalnepantla",
+    "Title":"Title11",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2530477,19.5712388 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZAT",
+    "Estado":"México",
+    "Municipio":"Atizapán",
+    "Title":"Title12",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.255389,19.5703258 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZAN",
+    "Estado":"México",
+    "Municipio":"Atizapán",
+    "Title":"Title13",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2539298,19.5713795 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SAT",
+    "Estado":"México",
+    "Municipio":"Atizapán",
+    "Title":"Title14",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2274575,19.5804826 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZLG",
+    "Estado":"México",
+    "Municipio":"Atizapán",
+    "Title":"Title15",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3044248,19.493979 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZEC",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title16",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1353936,19.4326068 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SECAGV",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title17",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0589812,19.5708609 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZE2",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title18",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1353936,19.4326068 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SCADE",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title19",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1353936,19.4326068 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SCADE2",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title20",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1353936,19.4326068 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Tienda":"SEC",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title21",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3364402,19.5495587 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZTM",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title22",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1256171,19.5141471 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZTC",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title23",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3044248,19.493979 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Tienda":"ZE3",
+    "Estado":"México",
+    "Municipio":"Ecatepec",
+    "Title":"Title24",
+    "Icon":"logoheaderzorro_40x21px.png"
+    }
+  }
+]
+}
