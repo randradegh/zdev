@@ -1,9 +1,11 @@
 /*
  * Fuente: http://jsfiddle.net/jonataswalker/w5uuxhov/
  *
+ *
 */
-var mapLat = 19.5712388;
-var mapLng = -99.2530477;
+
+var mapLat = 19.437;
+var mapLng = -99.1670;
 var mapDefaultZoom = 10;
 
 var styles = {
@@ -42,7 +44,7 @@ var olview = new ol.View({
 
 var geojson_layer = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'dataz.geojson',
+        url: 'dataz_enero_2109.geojson',
         //url: 'file.geojson',
         format: new ol.format.GeoJSON()
     }),
@@ -91,10 +93,14 @@ map.on('click', function(evt){
         var geometry = feature.getGeometry();
         var coord = geometry.getCoordinates();
         
-        var content = '<h4>' + feature.get('Cadena') + '</h4>';
-        content += '<h5>Tienda: ' + feature.get('Tienda') + '</h5>';
-        content += '<p>' + feature.get('Municipio');
-        content += ', ' + feature.get('Estado') + '</p>';
+        var content = '<h3>' + feature.get('Tienda') + '</h3>';
+        content += '<p>Trato Amable: ' + feature.get('Trato amable') + '</p>';
+        content += '<p>Rapidez: ' + feature.get('Rapidez') + '</p>';
+        content += '<p>Atención en cajas: ' + feature.get('Atención en cajas') + '</p>';
+        content += '<p>Ofertas y precios: ' + feature.get('Ofertas y precios') + '</p>';
+        content += '<p>Surtido y existencias: ' + feature.get('Surtido y existencias') + '</p>';
+        content += '<p>Orden y limpieza: ' + feature.get('Orden y Limpieza') + '</p>';
+        content += '<p>Seguridad industrial: ' + feature.get('Seguridad Industrial') + '</p>';
         
         content_element.innerHTML = content;
         overlay.setPosition(coord);

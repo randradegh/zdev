@@ -1,0 +1,1181 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2367870,19.4697168 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZPR",
+    "Tienda":"Zorro Primavera",
+    "Trato amable":"7.9",
+    "Rapidez":"7.6",
+    "Atención en cajas":"6.3",
+    "Ofertas y precios":"7.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.8",
+    "Seguridad Industrial":"8.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2358017,19.4734421 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZES",
+    "Tienda":"Zorro Estacas",
+    "Trato amable":"7.1",
+    "Rapidez":"9.6",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"8.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"6.4",
+    "Seguridad Industrial":"9.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2354370,19.4692270 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SN2",
+    "Tienda":"Scorpion Naucalpan 2",
+    "Trato amable":"9.6",
+    "Rapidez":"10.0",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"8.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2437614,19.4631315 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"CNA",
+    "Tienda":"Cazador Naucalpan",
+    "Trato amable":"8.3",
+    "Rapidez":"9.8",
+    "Atención en cajas":"9.0",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"5.5",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2500043,19.4407066 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZRH",
+    "Tienda":"Zorro Río Hondo ",
+    "Trato amable":"10.0",
+    "Rapidez":"8.8",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"2.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.8",
+    "Seguridad Industrial":"8.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2470668,19.4525161 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SN3",
+    "Tienda":"Scorpion Naucalpan 3",
+    "Trato amable":"8.8",
+    "Rapidez":"9.0",
+    "Atención en cajas":"9.0",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"9.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Naucalpan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0439397,19.5906710 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZE3",
+    "Tienda":"Zorro Ecatepec 3",
+    "Trato amable":"6.3",
+    "Rapidez":"8.3",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"100.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0048228,19.6447269 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTC",
+    "Tienda":"Zorro Tecámac",
+    "Trato amable":"8.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"73.0",
+    "Seguridad Industrial":"100.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0045061,19.6468493 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTM",
+    "Tienda":"Zorro Tecámac 2",
+    "Trato amable":"5.0",
+    "Rapidez":"9.7",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.3",
+    "Seguridad Industrial":"6.6",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0352350,19.6338008 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"STC",
+    "Tienda":"Scorpion Tecámac",
+    "Trato amable":"10.0",
+    "Rapidez":"10.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.0",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"NA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0714068,19.6216122 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SEC",
+    "Tienda":"Scorpion Ecatepec",
+    "Trato amable":"NA",
+    "Rapidez":"NA",
+    "Atención en cajas":"NA",
+    "Ofertas y precios":"NA",
+    "Surtido y existencias":"NA",
+    "Orden y Limpieza":"NA",
+    "Seguridad Industrial":"NA",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0716845,19.6217677 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZEC",
+    "Tienda":"Zorro Ecatepec ",
+    "Trato amable":"7.9",
+    "Rapidez":"9.7",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0788275,19.6266166 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SECAGV",
+    "Tienda":"Scorpion ",
+    "Trato amable":"10.0",
+    "Rapidez":"9.7",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"7.5",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"8.7",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0042128,19.6154519 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZE2",
+    "Tienda":"Zorro Ecatepec 2",
+    "Trato amable":"5.0",
+    "Rapidez":"5.0",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"7.5",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.7",
+    "Seguridad Industrial":"5.4",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0038758,19.6154256 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SCADE 1",
+    "Tienda":"Scorpion Central de Abastos de Ecatepec 1",
+    "Trato amable":"5.4",
+    "Rapidez":"8.3",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.0",
+    "Seguridad Industrial":"6.4",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0024425,19.6163322 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SCADE 2",
+    "Tienda":"Scorpion Central de Abastos de Ecatepec 2",
+    "Trato amable":"6.3",
+    "Rapidez":"8.3",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"6.7",
+    "Seguridad Industrial":"2.6",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0845674,19.2468654 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"FAX",
+    "Tienda":"Flecha Abarrotera Xochimilco",
+    "Trato amable":"9.6",
+    "Rapidez":"10.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"2.5",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"2.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Xochimilco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0846830,19.2472240 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SXC",
+    "Tienda":"Scorpion Xochimilco",
+    "Trato amable":"10.0",
+    "Rapidez":"10.0",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"8.2",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Xochimilco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2049331,19.3728735 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZA2",
+    "Tienda":"Zorro Alta Tensión 2",
+    "Trato amable":"7.9",
+    "Rapidez":"6.7",
+    "Atención en cajas":"2.7",
+    "Ofertas y precios":"7.5",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"54.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Álvaro Obregón"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2055820,19.3726412 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZA3",
+    "Tienda":"Zorro Alta Tensión 3",
+    "Trato amable":"8.8",
+    "Rapidez":"3.7",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"4.7",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Álvaro Obregón"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0344649,19.5262116 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAC",
+    "Tienda":"Zorro Avenida Central",
+    "Trato amable":"3.3",
+    "Rapidez":"8.5",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"3.7",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"6.6",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0184110,19.5054960 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SNA",
+    "Tienda":"Scorpion Nueva Aragón",
+    "Trato amable":"4.2",
+    "Rapidez":"8.5",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"7.4",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ecatepec de Morelos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2039598,19.3718812 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAL",
+    "Tienda":"Zorro Alta Tensión",
+    "Trato amable":"8.3",
+    "Rapidez":"10.0",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"50.0",
+    "Orden y Limpieza":"7.3",
+    "Seguridad Industrial":"7.2",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Álvaro Obregón"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7654985,19.1323980 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAM",
+    "Tienda":"Zorro Amecameca",
+    "Trato amable":"8.3",
+    "Rapidez":"10.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Amecameca de Juárez"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2553352,19.5703423 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAN",
+    "Tienda":"Zorro Atizapán 2",
+    "Trato amable":"9.6",
+    "Rapidez":"8.8",
+    "Atención en cajas":"4.5",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"7.2",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Atizapán de Zaragoza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0913087,19.4345121 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAE",
+    "Tienda":"Zorro Aeropuerto",
+    "Trato amable":"7.9",
+    "Rapidez":"8.8",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Venustiano Carranza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1161481,19.4402293 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"STA",
+    "Tienda":"Scorpion Tapicería",
+    "Trato amable":"7.9",
+    "Rapidez":"8.5",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"8.4",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Venustiano Carranza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2530813,19.5712754 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZAT",
+    "Tienda":"Zorro Atizapán ",
+    "Trato amable":"4.6",
+    "Rapidez":"8.2",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"7.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"9.2",
+    "Seguridad Industrial":"9.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Atizapán de Zaragoza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2532917,19.5713618 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SAT",
+    "Tienda":"Scorpion Atizapán",
+    "Trato amable":"5.0",
+    "Rapidez":"6.6",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"7.8",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Atizapán de Zaragoza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.8814636,19.2811921 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCL",
+    "Tienda":"Zorro Chalco",
+    "Trato amable":"8.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"2.5",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"5.2",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Chalco de Díaz Covarrubias"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9397617,19.2973997 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SVC",
+    "Tienda":"Scorpion Valle de Chalco",
+    "Trato amable":"10.0",
+    "Rapidez":"9.7",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"3.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"3.6",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Valle de Chalco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9772298,19.4219722 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCM",
+    "Tienda":"Zorro Chimalhuacán",
+    "Trato amable":"8.3",
+    "Rapidez":"8.5",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Chimalhuacán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1970667,19.6679737 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCN",
+    "Tienda":"Zorro Cuautitlán",
+    "Trato amable":"4.2",
+    "Rapidez":"9.7",
+    "Atención en cajas":"0.9",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"8.2",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Cuautitlán Izcalli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1426557,19.5480651 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZCU",
+    "Tienda":"Zorro Cuautepec",
+    "Trato amable":"7.5",
+    "Rapidez":"8.5",
+    "Atención en cajas":"7.3",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Gustavo A. Madero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1407870,19.5297190 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SCU",
+    "Tienda":"Scorpion Cuautepec",
+    "Trato amable":"9.2",
+    "Rapidez":"8.8",
+    "Atención en cajas":"2.7",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"5.0",
+    "Seguridad Industrial":"8.2",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Gustavo A. Madero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.5430351,18.3357975 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIG",
+    "Tienda":"Zorro Iguala",
+    "Trato amable":"6.3",
+    "Rapidez":"7.9",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"4.3",
+    "Seguridad Industrial":"5.4",
+    "Estado":"Guerrero",
+    "Municipio":"Iguala de la Independencia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2327280,19.6280000 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZIZ",
+    "Tienda":"Zorro Izcalli",
+    "Trato amable":"5.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"3.6",
+    "Ofertas y precios":"2.5",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Cuautitlán Izcalli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1668241,19.6703410 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SCN",
+    "Tienda":"Scorpion Cuautitlán",
+    "Trato amable":"8.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Cuautitlán"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1514109,18.8870202 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZJI",
+    "Tienda":"Zorro Jiutepec",
+    "Trato amable":"6.3",
+    "Rapidez":"10.0",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"3.2",
+    "Estado":"Morelos",
+    "Municipio":"Jiutepec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2253721,19.5804856 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZLG",
+    "Tienda":"Zorro Lago de Guadalupe",
+    "Trato amable":"4.2",
+    "Rapidez":"7.2",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"6.0",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Atizapán de Zaragoza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3266017,19.6247944 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZN2",
+    "Tienda":"Zorro Nicolás Romero 2",
+    "Trato amable":"8.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"6.4",
+    "Seguridad Industrial":"5.4",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Villa Nicolás Romero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.3263053,19.6214480 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZNR",
+    "Tienda":"Zorro Nicolás Romero ",
+    "Trato amable":"7.5",
+    "Rapidez":"10.0",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Villa Nicolás Romero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0019914,19.4096326 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZNZ",
+    "Tienda":"Zorro Nezahualcóyotl",
+    "Trato amable":"9.6",
+    "Rapidez":"10.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.9",
+    "Seguridad Industrial":"6.8",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Nezahualcóyotl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.7935622,19.0482966 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZOZ",
+    "Tienda":"Zorro Ozumba",
+    "Trato amable":"5.4",
+    "Rapidez":"8.8",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Ozumba de Alzate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0578147,19.4061091 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZPA",
+    "Tienda":"Zorro Pantitlán",
+    "Trato amable":"7.9",
+    "Rapidez":"9.1",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"8.2",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Iztacalco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0580780,19.4020180 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"SC7",
+    "Tienda":"Scorpion Calle 7",
+    "Trato amable":"5.4",
+    "Rapidez":"10.0",
+    "Atención en cajas":"3.6",
+    "Ofertas y precios":"7.5",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Iztacalco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1891876,19.5446547 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTL",
+    "Tienda":"Zorro Toltecas",
+    "Trato amable":"6.7",
+    "Rapidez":"8.0",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"6.0",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"2.9",
+    "Seguridad Industrial":"8.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Tlalnepantla de Baz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1885500,19.5458680 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"STL",
+    "Tienda":"Scorpion Toltecas",
+    "Trato amable":"8.8",
+    "Rapidez":"9.2",
+    "Atención en cajas":"9.1",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.9",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Tlalnepantla de Baz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1792707,19.5547167 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTN",
+    "Tienda":"Zorro Tenayuca",
+    "Trato amable":"6.3",
+    "Rapidez":"6.4",
+    "Atención en cajas":"0.9",
+    "Ofertas y precios":"8.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"6.4",
+    "Seguridad Industrial":"7.5",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Tlalnepantla de Baz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0245168,19.2583660 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTY",
+    "Tienda":"Zorro Tulyehualco",
+    "Trato amable":"9.6",
+    "Rapidez":"6.1",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"8.6",
+    "Seguridad Industrial":"5.2",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Xochimilco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0199671,19.2577076 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"STY",
+    "Tienda":"Scorpion Tulyehualco",
+    "Trato amable":"5.8",
+    "Rapidez":"10.0",
+    "Atención en cajas":"6.4",
+    "Ofertas y precios":"5.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"9.3",
+    "Seguridad Industrial":"8.4",
+    "Estado":"Cd. Mx.",
+    "Municipio":"Xochimilco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3699958,20.0889685 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZTU",
+    "Tienda":"Zorro Tulancingo",
+    "Trato amable":"7.5",
+    "Rapidez":"7.3",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"6.3",
+    "Surtido y existencias":"10.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"10.0",
+    "Estado":"Hidalgo",
+    "Municipio":"Tulancingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.3703435,20.0906314 ]
+    },
+    "properties": {
+    "Cadena":"Scorpion",
+    "Identificador":"STU",
+    "Tienda":"Scorpion Tulancingo",
+    "Trato amable":"10.0",
+    "Rapidez":"10.0",
+    "Atención en cajas":"10.0",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"0.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"9.0",
+    "Estado":"Hidalgo",
+    "Municipio":"Tulancingo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9386427,19.2765934 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZV2",
+    "Tienda":"Zorro Valle de Chalco 2",
+    "Trato amable":"6.7",
+    "Rapidez":"8.8",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"10.0",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"10.0",
+    "Seguridad Industrial":"6.8",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Valle de Chalco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.9535400,19.2695852 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZVC",
+    "Tienda":"Zorro Valle de Chalco",
+    "Trato amable":"6.3",
+    "Rapidez":"8.5",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"7.1",
+    "Seguridad Industrial":"8.2",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Valle de Chalco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.0138392,19.3876483 ]
+    },
+    "properties": {
+    "Cadena":"Zorro Abarrotero",
+    "Identificador":"ZVV",
+    "Tienda":"Zorro Vicente Villada",
+    "Trato amable":"8.3",
+    "Rapidez":"8.8",
+    "Atención en cajas":"8.2",
+    "Ofertas y precios":"8.8",
+    "Surtido y existencias":"5.0",
+    "Orden y Limpieza":"5.0",
+    "Seguridad Industrial":"6.6",
+    "Estado":"Edo. Mex.",
+    "Municipio":"Nezahualcóyotl"
+    }
+  }
+]
+}
