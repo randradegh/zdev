@@ -37,7 +37,7 @@ var styleFunction = function(feature, resolution) {
 var olview = new ol.View({
     center: ol.proj.fromLonLat([mapLng, mapLat]),
     //center: [-99.25, 19.57],
-    zoom: 13,
+    zoom: mapDefaultZoom,
     minZoom: 2,
     maxZoom: 20
 });
